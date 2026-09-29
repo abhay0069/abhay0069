@@ -1,4 +1,13 @@
-## Hi there 👋
+## # Hi, I'm Abhay Pratap 👋
+
+**Full-Stack Developer & 3D Artist** building **interactive web experiences, 3D applications, and creative digital products.**
+
+💻 React • Three.js • JavaScript • TypeScript
+🎨 Blender • Unreal Engine 5 • 3D Development
+🚀 Interested in **Full-Stack Development, Creative Technology & Interactive Experiences**
+
+> **I build ideas into experiences.**
+
 
 <!--
 **abhay0069/abhay0069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
